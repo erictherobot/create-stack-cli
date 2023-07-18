@@ -1,8 +1,8 @@
-# Create-Stack
+# create-quick-stack
 
 ## Overview
 
-Create-Stack is a command line tool designed to streamline the initial setup of JavaScript projects. This CLI tool interactively guides you to set up a new project, helping you choose the web development framework and libraries your project requires.
+create-quick-stack is a command line tool designed to streamline the initial setup of JavaScript projects. This CLI tool interactively guides you to set up a new project, helping you choose the web development framework and libraries your project requires.
 
 ## Key Features
 
@@ -15,10 +15,10 @@ Create-Stack is a command line tool designed to streamline the initial setup of 
 
 ## Installation
 
-1. Install Create-Stack globally using npm:
+1. Install create-quick-stack globally using npm:
 
    ```bash
-   npm install -g create-stack
+   npm install -g create-quick-stack
    ```
 
 ## Usage
@@ -26,7 +26,7 @@ Create-Stack is a command line tool designed to streamline the initial setup of 
 1. To start setting up a new project, use the command:
 
    ```bash
-   create-stack init
+   create-quick-stack init
    ```
 
 2. The CLI will then guide you through the setup process. You will be asked to enter a name for your project and to select your preferred framework and libraries.
