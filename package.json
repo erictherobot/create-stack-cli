@@ -1,5 +1,5 @@
 {
-  "name": "create-stack",
+  "name": "create-quick-stack",
   "version": "0.0.1",
   "type": "module",
   "description": "A command line tool to create a new project stack",
