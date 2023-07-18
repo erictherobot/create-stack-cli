@@ -37,7 +37,9 @@ To start setting up a new project, use the command:
 npx create-quick-stack init
 ```
 
-The CLI will then guide you through the setup process. You will be asked to enter a name for your project and to select your preferred framework and libraries.
+The CLI will then guide you through the setup process. You will be asked to enter a name for your project and to select your preferred framework and libraries like so:
+
+![Create Quick Stack CLI](./create-quick-stack.png)
 
 ## Contributing
 
