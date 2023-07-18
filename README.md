@@ -15,21 +15,29 @@ create-quick-stack is a command line tool designed to streamline the initial set
 
 ## Installation
 
-1. Install create-quick-stack globally using npm:
+Install create-quick-stack globally using npm:
 
-   ```bash
-   npm install -g create-quick-stack
-   ```
+```bash
+npm install -g create-quick-stack
+```
+
+or
+
+Install create-quick-stack globally using yarn:
+
+```bash
+yarn global add create-quick-stack
+```
 
 ## Usage
 
-1. To start setting up a new project, use the command:
+To start setting up a new project, use the command:
 
-   ```bash
-   create-quick-stack init
-   ```
+```bash
+create-quick-stack init
+```
 
-2. The CLI will then guide you through the setup process. You will be asked to enter a name for your project and to select your preferred framework and libraries.
+The CLI will then guide you through the setup process. You will be asked to enter a name for your project and to select your preferred framework and libraries.
 
 ## Contributing
 
