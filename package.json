@@ -25,7 +25,7 @@
     "line",
     "tool"
   ],
-  "author": "Eric David Smith <erictherobot@fmail.com>",
+  "author": "Eric David Smith <erictherobot@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "@supabase/supabase-js": "^2.26.0",
