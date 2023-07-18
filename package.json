@@ -1,0 +1,27 @@
+{
+  "name": "create-stack",
+  "version": "0.0.1",
+  "type": "module",
+  "description": "A command line tool to create a new project stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "stack-creator": "./index.js"
+  },
+  "keywords": [],
+  "author": "Eric David Smith <erictherobot@fmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.26.0",
+    "@trpc/client": "^10.34.0",
+    "@trpc/server": "^10.34.0",
+    "autoprefixer": "^10.4.14",
+    "inquirer": "^7.3.3",
+    "postcss": "^8.4.26",
+    "prisma": "^5.0.0",
+    "shelljs": "^0.8.4",
+    "tailwindcss": "^3.3.3"
+  }
+}
